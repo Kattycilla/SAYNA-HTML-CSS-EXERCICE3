@@ -1,0 +1,48 @@
+  
+  header{
+    background:#322f36; 
+    color:#FFFFFF ;
+}
+header h1{
+    padding: 100px;
+    text-align: center;
+    /* margin-left: -169px; */
+}
+header h3{
+    text-align: center;
+    color:#3d9f96 ;
+	font-family: Raleway, Arial, sans-serif ;
+    /* margin-left: -169px; */
+    margin-bottom: 30px;
+    font-size: 18px;
+    padding: 20px;
+    margin-top: 30px;
+
+}
+.social{
+    text-align: center;
+}
+.bt1{
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+color: #FFFFFF;
+
+}
+.button{
+    padding: 3%;
+    
+}
+.social{
+    padding: 20px;
+    padding-left: 20px;
+}
+.button{
+    border-radius: 20px;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #FFFFFF;
+}
+
